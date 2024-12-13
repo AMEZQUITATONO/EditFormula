@@ -1,1 +1,97 @@
-
+{
+    "expressions": [
+        {
+            "id": 1,
+            "name": "Expresion 1",
+            "expression": "2+2",
+            "date": "2021-01-01",
+            "status": "active"
+        },
+        {
+            "id": 2,
+            "name": "Expresion 2",
+            "expression": "3+3",
+            "date": "2021-01-02",
+            "status": "active"
+        },
+        {
+            "id": 3,
+            "name": "Expresion 3",
+            "expression": "4+4",
+            "date": "2021-01-03",
+            "status": "active"
+        },
+        {
+            "id": 4,
+            "name": "Expresion 4",
+            "expression": "5+5",
+            "date": "2021-01-04",
+            "status": "active"
+        },
+        {
+            "id": 5,
+            "name": "Expresion 5",
+            "expression": "6+6",
+            "date": "2021-01-05",
+            "status": "active"
+        }
+    ],
+    "functions": [
+        {
+            "id": 1,
+            "name": "Agregar",
+            "value": "ADD",
+            "help": "Suma dos valores"
+        },
+        {
+            "id": 2,
+            "name": "Comparar",
+            "value": "COMP",
+            "help": "Compara dos valores"
+        },
+        {
+            "id": 3,
+            "name": "Eliminar",
+            "value": "DEL",
+            "help": "Elimina un valor"
+        },
+        {
+            "id": 4,
+            "name": "Mayor",
+            "value": "GREATER",
+            "help": "Obtiene el mayor de dos valores"
+        }
+    ],
+    "identifiers": [
+        {
+            "id": 1,
+            "name": "Identificador 1",
+            "value": "ID1",
+            "type": "number"
+        },
+        {
+            "id": 2,
+            "name": "Identificador 2",
+            "value": "ID2",
+            "type": "string"
+        },
+        {
+            "id": 3,
+            "name": "Identificador 3",
+            "value": "ID3",
+            "type": "date"
+        },
+        {
+            "id": 4,
+            "name": "Identificador 4",
+            "value": "ID4",
+            "type": "boolean"
+        },
+        {
+            "id": 5,
+            "name": "Identificador 5",
+            "value": "ID5",
+            "type": "number"
+        }
+    ]
+}
